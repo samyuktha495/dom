@@ -1,7 +1,7 @@
 function b(){
 let k=document.getElementById("p");
 let a=document.getElementById("btn");
-// k.onclick=function  b(){
+
 k.style.backgroundColor="red"
 k.style.fontSize="80px"
 k.style.borderRadius="50px"
@@ -15,7 +15,7 @@ function c(){
     let images=document.getElementById("div")
     let button=document.getElementById("button2")
     button.style.width="100px"
-    // button.style.backgroundColor="red"
+    
 
 
     images.innerHTML=`<img id="i1"src="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"width="300px"height="200px"/>
